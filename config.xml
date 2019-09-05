@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "io.phenomen.github"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
 <name>ТЕСТ. DnD5e Справочник</name>
 
@@ -42,7 +42,7 @@
     <icon src="res/android/icon/616ce8c6892da45c9bb4416562080661.png" density="mdpi" />
     <icon src="res/android/icon/07c169441a362e99ef563468040531bb.png" density="hdpi" />
     <icon src="res/android/icon/579f56f086b9041f8f5bf6fcac24fbce.png" density="xhdpi" />
-    <icon src="res/android/icon/980024a4634012fe1a38af868ef02b75.png" density="xxhdpi" />
+    <icon src="res/android/icon/58e65a1f98ae445d6e517e87340f4429.png" density="xxhdpi" />
     <icon src="res/android/icon/f05b033a63ee26f9eae94c9c4f67fe95.png" density="xxxhdpi" />
 
     <splash src="res/android/screen/c0a96c5d6ddce3dcd69f36b2caa55615.png" density="port-hdpi"/>
